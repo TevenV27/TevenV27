@@ -7,13 +7,12 @@
 
 - 🌱 I’m currently learning **Next JS , Three JS**
 
-- 👨‍💻 All of my projects are available at [https://teven.vercel.app/](https://teven.vercel.app/)
+
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **xkevinym@gmail.com**
 
-- 📄 Know about my experiences [https://raw.githubusercontent.com/TevenV27/portfolio/main/src/assets/CV_English.pdf](https://raw.githubusercontent.com/TevenV27/portfolio/main/src/assets/CV_English.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
